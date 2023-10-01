@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodLockNet", "GoodLockNet\GoodLockNet.csproj", "{42BB358C-5A7E-4783-80B8-19B51D271F00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodLockNet.Tests", "GoodLockNet.Tests\GoodLockNet.Tests.csproj", "{A7030DAD-4A37-4CE8-933D-0B90752DD50F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42BB358C-5A7E-4783-80B8-19B51D271F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BB358C-5A7E-4783-80B8-19B51D271F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BB358C-5A7E-4783-80B8-19B51D271F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BB358C-5A7E-4783-80B8-19B51D271F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7030DAD-4A37-4CE8-933D-0B90752DD50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7030DAD-4A37-4CE8-933D-0B90752DD50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7030DAD-4A37-4CE8-933D-0B90752DD50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7030DAD-4A37-4CE8-933D-0B90752DD50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
